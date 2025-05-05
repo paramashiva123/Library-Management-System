@@ -1,6 +1,6 @@
 # Library-Management-System
 This project is a Tkinter-based GUI application for managing library operations efficiently. It allows librarians to add, view, update, issue, return, and delete books with an intuitive interface. The system uses SQLite for database storage, ensuring data persistence.
-
+(This is a group project done in my graduation as a major project)
 
 Key Features
 Book Management
